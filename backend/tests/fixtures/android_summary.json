@@ -1,0 +1,85 @@
+{
+  "focused_min": 63,
+  "neutral_min": 0,
+  "study_blocks": [
+    {
+      "subject": "DSA",
+      "start": "18:00",
+      "end": "20:00",
+      "day": "Mon"
+    },
+    {
+      "subject": "DSA",
+      "start": "18:00",
+      "end": "20:00",
+      "day": "Tue"
+    },
+    {
+      "subject": "DSA",
+      "start": "18:00",
+      "end": "20:00",
+      "day": "Wed"
+    },
+    {
+      "subject": "DSA",
+      "start": "18:00",
+      "end": "20:00",
+      "day": "Thu"
+    },
+    {
+      "subject": "DSA",
+      "start": "18:00",
+      "end": "20:00",
+      "day": "Fri"
+    }
+  ],
+  "distracted_min": 73,
+  "weekday": "Tue",
+  "minutes_by_category": {
+    "study": 38,
+    "productive": 25,
+    "social": 17,
+    "games": 16,
+    "video": 40
+  },
+  "app_switches": 5,
+  "late_night_min": 16,
+  "nudges_sent": 2,
+  "exams": [
+    {
+      "subject": "DBMS",
+      "days_until": 9
+    }
+  ],
+  "date_label": "today",
+  "longest_focus_streak_min": 38,
+  "distracted_by_hour": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    22,
+    0,
+    0,
+    0,
+    0,
+    18,
+    17,
+    0,
+    0,
+    0,
+    16
+  ],
+  "classifier": "rules",
+  "distracted_min_in_study_blocks": 35,
+  "checkin_note": "Plans 90 min on DBMS. Blockers: keeps checking Instagram"
+}

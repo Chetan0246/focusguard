@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cleartext HTTP is allowed so the phone can reach the relay / Muse Glimmer on the student's
+     own laptop over local Wi-Fi (http://192.168.x.x). Use HTTPS for any deployed relay. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
