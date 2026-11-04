@@ -4,7 +4,8 @@
 
 Built for the Meta Global AI Developer Hackathon 2026 · Indie track · theme *"Build for Your World"*.
 
-> My world is a 3rd-year engineering hostel room: a timetable, exams 9 and 16 days away, and a phone that turns "one quick YouTube lecture" into an hour of Shorts. Screen-time apps show you a pie chart after the damage is done. FocusGuard steps in *during* the study block and plans the next day from what really happened.
+>  My world is a 3rd-year engineering timetable, an exam 9 days away, and a phone that turns "one quick YouTube lecture" into an hour of Shorts. Screen-time apps show you a pie chart after the damage is done. FocusGuard steps in *during* the study block and plans the next day from what really happened.
+
 
 ---
 
