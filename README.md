@@ -2,6 +2,8 @@
 
 **An Android focus coach that senses how a student actually uses their phone during study blocks, and plans tomorrow around it, without the raw usage ever leaving devices the student owns.**
 
+**Demo video:** https://youtu.be/WrLV5ZXMlqM
+
 Built for the Meta Global AI Developer Hackathon 2026 · Indie track · theme *"Build for Your World"*.
 
 >  My world is a 3rd-year engineering timetable, an exam 9 days away, and a phone that turns "one quick YouTube lecture" into an hour of Shorts. Screen-time apps show you a pie chart after the damage is done. FocusGuard steps in *during* the study block and plans the next day from what really happened.
